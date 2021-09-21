@@ -1,10 +1,10 @@
-##Game Backend
+## Game Backend
 
 A backend in PHP implementing permanent data for a game server with login system with rest-api.
 
-##Credits
+## Credits
 
-#Game Backend uses
+# Game Backend uses
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200"></a></p>
 
