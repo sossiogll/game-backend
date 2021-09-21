@@ -1,10 +1,10 @@
-## Game Backend
+# Game Backend
 
 A backend in PHP implementing permanent data for a game server with login system with rest-api.
 
-## Credits
+# Credits
 
-# Game Backend uses
+## Game Backend uses...
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200"></a></p>
 
@@ -15,5 +15,5 @@ A backend in PHP implementing permanent data for a game server with login system
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# Laravel License
+## Laravel License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
